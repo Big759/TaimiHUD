@@ -110,7 +110,7 @@ stock-imgui-progress-bar = Barre de progression par défaut d'ImGui
 #TODO: or just Ombre?
 shadow = Ombrage
 centre-text-after-icon = Centrer texte après icône
-imgui-notice = Vous pouvez Ctrl+Clic gauche sur les curseurs, ou autre, pour directement entrer une valeur manuellement. N'oubliez pas d'appuyer sur Entrée pour confirmer la valeur.
+imgui-notice = Vous pouvez effectuer un Ctrl + Clic gauche sur un curseur (ou autre élément similaire) pour y saisir directement des valeurs. N'oubliez pas d'appuyer sur Entrée pour confirmer la valeur.
 context-click-notice = Clic droit pour plus d'options
 dpi-scaling = Échelle DPI
 dpi-notice = Veiller à ce que ceci corresponde à la valeur "{dpi-scaling}" dans les options graphiques du jeu afin que les éléments de la carte s'affichent correctement.
